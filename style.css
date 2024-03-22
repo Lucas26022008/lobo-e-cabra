@@ -15,10 +15,9 @@ body{
     border-radius: 15%;
 }
 h1{
-    background-color: rgb(41, 40, 40);
+    background-color: rgb(40, 40, 40);
     line-height: 150%;
 }
 .limbord{
-    border-left: 150px;
-    border-right: 45%;
+
 }
