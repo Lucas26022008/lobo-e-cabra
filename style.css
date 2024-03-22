@@ -18,3 +18,7 @@ h1{
     background-color: rgb(41, 40, 40);
     line-height: 150%;
 }
+.limbord{
+    border-left: 45%;
+    border-right: 45%;
+}
